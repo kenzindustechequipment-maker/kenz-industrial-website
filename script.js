@@ -1,0 +1,1 @@
+document.querySelectorAll('.menu-toggle').forEach(function(b){b.addEventListener('click',function(){var n=document.querySelector('.nav');if(n)n.hidden=!n.hidden;});});
